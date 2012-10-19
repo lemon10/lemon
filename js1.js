@@ -9,16 +9,7 @@ From https://github.com/lemon10/lemon
 Merge made by recursive.
 n master
 Username: 
-Password: 
-Counting objects: 7, done.
-
- create mode 100644 TODAY
-shabbir@shabbir:~/www/github/lemon$ git push origin master
-Username: 
-Password: 
-Counting objects: 7, done.
-Delta compression using up to 2 threads.
-Compressing objects: 100% (5/5), done.
+P
 Writing objects: 100% (5/5), 16.88 KiB, done.
 Total 5 (delta 2), reused 0 (delta 0)
 To https://github.com/lemon10/lemon.git
